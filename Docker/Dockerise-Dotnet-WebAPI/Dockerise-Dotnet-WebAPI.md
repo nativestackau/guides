@@ -227,6 +227,9 @@ Deleted: sha256:c4b04dbfeff96e7265754fdf6d788d9ac9aa25ba1cf90a7b9320b119525c5ee7
 ~~~powershell
 $ docker image ls
 ~~~
+
+- Documentation for the `Docker CLI` can be found here: https://docs.docker.com/engine/reference/commandline/docker/
+
 ## Summary
 In this guide we did the following:
 - Created a new .Net Core Web API project using the .Net Core CLI.
